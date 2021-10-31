@@ -1,6 +1,6 @@
 ## Halloween Maze Game
 
-### [Visit Here]()
+### [Visit Here](https://vanshsh.github.io/spookymazegame/)
 
 ---
 
